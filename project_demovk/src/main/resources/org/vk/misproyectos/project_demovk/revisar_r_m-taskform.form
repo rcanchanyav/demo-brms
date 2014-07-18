@@ -1,0 +1,188 @@
+
+<form id="1541898349">
+<property name="subject" value=""/>
+<property name="name" value="revisar_r_m-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="1983756520">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value=""/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value=""/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h3&gt;REVISION DE LA RESOLUCION MINISTERIAL&lt;/h3&gt; quot;quot;dequot;,quot;&lt;h3&gt;REVISION DE LA RESOLUCION MINISTERIAL&lt;/h3&gt; quot;quot;enquot;,quot;&lt;h3&gt;REVISION DE LA RESOLUCION MINISTERIAL&lt;/h3&gt; quot;quot;esquot;,quot;&lt;h3&gt;REVISION DE LA RESOLUCION MINISTERIAL&lt;/h3&gt; quot;quot;frquot;,quot;&lt;h3&gt;REVISION DE LA RESOLUCION MINISTERIAL&lt;/h3&gt; quot;quot;jaquot;,quot;&lt;h3&gt;REVISION DE LA RESOLUCION MINISTERIAL&lt;/h3&gt; quot;quot;ptquot;,quot;&lt;h3&gt;REVISION DE LA RESOLUCION MINISTERIAL&lt;/h3&gt; quot;quot;zhquot;,quot;&lt;h3&gt;REVISION DE LA RESOLUCION MINISTERIAL&lt;/h3&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name="doc_res" type="Document" id="138647930">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;ver &quot;Resolucion&quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="_doc_res"/>
+<property name="outputBinding" value="doc_res_"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="2" name="sol_aprobacion_resolucion" type="CheckBox" id="767553629">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;APROBRACION DE LA RESOLUCIONquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value="_sol/aprobacion_resolucion"/>
+<property name="outputBinding" value="sol_/aprobacion_resolucion"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="3" name="sol_observaciones" type="InputTextArea" id="1678209265">
+<property name="fieldRequired" value="false"/>
+<property name="height" value=""/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;OBSERVACIONESquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="pattern" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value="_sol/observaciones"/>
+<property name="outputBinding" value="sol_/observaciones"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name=":decorator_1" type="HTMLLabel" id="341855814">
+<property name="fieldRequired" value="false"/>
+<property name="label" value=""/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value=""/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;p&gt;****************************************************&lt;/p&gt;
+quot;quot;dequot;,quot;&lt;p&gt;****************************************************&lt;/p&gt;
+quot;quot;enquot;,quot;&lt;p&gt;****************************************************&lt;/p&gt;
+quot;quot;esquot;,quot;&lt;p&gt;****************************************************&lt;/p&gt;
+quot;quot;frquot;,quot;&lt;p&gt;****************************************************&lt;/p&gt;
+quot;quot;jaquot;,quot;&lt;p&gt;****************************************************&lt;/p&gt;
+quot;quot;ptquot;,quot;&lt;p&gt;****************************************************&lt;/p&gt;
+quot;quot;zhquot;,quot;&lt;p&gt;****************************************************&lt;/p&gt;
+quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="5" name="sol_expediente" type="InputTextPrimitiveInteger" id="597527917">
+<property name="fieldRequired" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;N` EXPEDIENTEquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value="_sol/expediente"/>
+<property name="outputBinding" value="sol_/expediente"/>
+<property name="fieldClass" value="int"/>
+</field>
+<field position="6" name="sol_encausado" type="InputText" id="1830756079">
+<property name="fieldRequired" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;ENCAUSADOquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="pattern" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value="_sol/encausado"/>
+<property name="outputBinding" value="sol_/encausado"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="sol_asunto" type="InputText" id="253629746">
+<property name="fieldRequired" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;ASUNTOquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="pattern" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value="_sol/asunto"/>
+<property name="outputBinding" value="sol_/asunto"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="8" name="sol_cargos_imputados" type="InputText" id="1361924278">
+<property name="fieldRequired" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;CARGOS IMPUTADOSquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="pattern" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value="_sol/cargos_imputados"/>
+<property name="outputBinding" value="sol_/cargos_imputados"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="sol_estado_extradicion" type="InputText" id="604611578">
+<property name="fieldRequired" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;ESTADO QUE SOLICITA LA EXTRADICIONNquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="pattern" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value="_sol/estado_extradicion"/>
+<property name="outputBinding" value="sol_/estado_extradicion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="_doc_res" name="#A7E690" type="basicType" outId="doc_res_" value="org.jbpm.document.Document" id="doc_res"/>
+<dataHolder inputId="_sol" name="#0000A0" type="dataModelerEntry" outId="sol_" value="org.vk.misproyectos.project_demovk.Solicitud" id="sol"/>
+</form>
